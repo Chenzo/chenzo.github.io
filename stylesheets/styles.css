@@ -320,7 +320,11 @@ footer {
 }
 
 
-object.svgobj {
+article {
+  margin-bottom: 125px;
+}
+
+object.svgobj, img.svgimg {
   width: 50px;
   display: inline;
   margin-right: 20px;
